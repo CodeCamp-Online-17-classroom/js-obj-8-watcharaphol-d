@@ -17,3 +17,7 @@ multiplyNumeric(menu, 3)
 //  title: 'My menu'
 // };
 ```
+
+### Homework Finished 13/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
